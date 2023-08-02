@@ -1,0 +1,63 @@
+inceput_variabile_globale
+int x = 23;
+
+int x1;
+
+int x1;
+
+int x2;
+
+float f1 = 50.0;
+
+string s = “ana”’;
+sfarsit_variabile_globale
+inceput_struct
+sfarsit_struct
+inceput_functii
+int testFunction(int x, float z) {
+
+int a=0;
+
+}
+
+int testFunction(int x, float z) {
+
+float t=5.0;
+
+}
+
+int testFunction(float x, float z) {
+
+char y='a';
+
+}
+
+int test(int param) {
+
+ int p=8;
+
+}
+
+sfarsit_functii
+ inceput
+
+            x3 = x + 2;
+
+f1 = x + x2;
+
+f1 = test (5) + x;
+
+x = test(5) + f1; 
+
+x = s + f1;
+
+            test(f1);
+
+test(5,f1);
+
+TypeOf(f1+x);
+
+
+test(5+f1);
+
+sfarsit

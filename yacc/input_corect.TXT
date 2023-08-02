@@ -1,0 +1,91 @@
+inceput_variabile_globale
+int x ;
+int x1;
+int x2;
+float y;
+int arr[10];
+
+
+float f = 20.0 ;
+float f1;
+string t="motorbike";
+sfarsit_variabile_globale
+inceput_struct
+struct C1 {
+
+int r=0;
+
+};
+
+struct C2 {
+int g=0;
+};
+
+sfarsit_struct
+inceput_functii
+int testFunction(int x, float z) {
+  int a=5;
+  int v[3];
+}
+
+int testFunction(int x, int z) {
+  const int b12=9;
+}
+
+int test(int param1, int param2, float f) {
+ char e='y';
+}
+
+sfarsit_functii
+inceput
+         
+         C1 obj1;
+         obj1.r=5+5;
+         float m;
+         m=6.6;
+         string w="j";
+         
+         f = 30.0 ;
+         int x34=5+9/2;
+         float q=6.2+3.0-7.9;
+          int d=testFunction(5+10,4.0)+7*23;
+         int r5=d+x34;
+       
+
+       x=8;
+      while(f>1.0){
+      x=7+9;
+      x++;
+      if(x>5){
+      int iou=0;
+     
+      }
+     
+      }
+      for(x34=0;x34<56;x34++){
+     
+      int y2=90;
+      y=y+8.4;
+     
+     
+     
+      }
+      if(5>7*(5445+55)){
+     
+      m=4.34;
+     
+      }
+       
+          x = 10; x1 = 20; x2 = 30; y = 100.0;
+          if (((x1 + test(x1,x2,f) < 5 + x1 && ((x > 2 || x1 < 4+x2 )|| x == 2 )))) {
+  x = 2;
+             obj1.r=testFunction(3,99.8);
+             char e33='m';
+           }
+            x = test(test(x1,3,f)+2,5, y+4.1) + (30 - x1 * arr[2]) - 10;
+x1 = x*100 + 5 * 100 + arr[2];
+
+TypeOf(x+23);
+TypeOf(f-30.0);
+
+sfarsit
